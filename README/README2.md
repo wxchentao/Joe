@@ -10,9 +10,7 @@
 
 在root权限下指令yum install httpd
 
-如果要一起购买域名的话，记得要进行网站备案。
-
-1.1:![Alt]https://github.com/wxchentao/Joe/blob/master/images/second/1.1.png
+1.1:![Alt](https://github.com/wxchentao/Joe/blob/master/images/second/1.1.png)
 
 1.2:![Alt]https://github.com/wxchentao/Joe/blob/master/images/second/1.2.png
 
