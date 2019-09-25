@@ -12,11 +12,7 @@
 
 1.1:![Alt](https://github.com/wxchentao/Joe/blob/master/images/second/1.1.png)
 
-<<<<<<< HEAD
 1.2:![Alt](https://github.com/wxchentao/Joe/blob/master/images/second/1.2.png)
-=======
-1.2:![Alt]https://github.com/wxchentao/Joe/blob/master/images/second/1.2.png
->>>>>>> 6d64a7bdd8c906fe914937b2f6f0e45edfec36b6
 
 #### (2)安装完成以后，启动Apache Web服务器
 
